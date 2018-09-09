@@ -39,7 +39,7 @@ def alan_kay_is_known_for
         }
      }
      
-     object = programmer_hash[:grace_hopper][:known_for]
+     object = programmer_hash[:grace_hopper]
 end
 
 def dennis_ritchies_language
